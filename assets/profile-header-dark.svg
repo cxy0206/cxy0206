@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="262" viewBox="0 0 1200 262" role="img" aria-labelledby="title desc">
+  <title id="title">Xinyi Chen · 陈鑫奕</title>
+  <desc id="desc">Ph.D. student at Shanghai Jiao Tong University. Molecular representation learning and AI for chemistry.</desc>
+  <rect width="1200" height="262" rx="12" fill="#171d23"/>
+  <path d="M38 36V226" stroke="#df9a86" stroke-width="4"/>
+  <text x="72" y="62" fill="#df9a86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="2.4">MOLECULAR REPRESENTATION LEARNING</text>
+  <text x="68" y="139" fill="#eef0e9" font-family="Georgia, 'Times New Roman', serif" font-size="62">Xinyi Chen</text>
+  <text x="410" y="137" fill="#a5b2ad" font-family="'Noto Serif CJK SC', 'Songti SC', SimSun, serif" font-size="28">陈鑫奕</text>
+  <text x="72" y="186" fill="#c1ccc8" font-family="Arial, Helvetica, sans-serif" font-size="18">Ph.D. student · Shanghai Jiao Tong University</text>
+  <text x="72" y="219" fill="#90a09b" font-family="Arial, Helvetica, sans-serif" font-size="15">Molecular learning · Self-supervision · AI for chemistry</text>
+  <g transform="translate(952 125)" fill="none" stroke="#394d4c" stroke-width="1.5">
+    <path d="M0-50 44-25V25L0 50-44 25V-25Z M44-25 88-50 132-25V25L88 50 44 25 M0-50V-83 M-44 25-72 42 M132-25 158-41"/>
+    <path d="M-34-20V20 M9 38 35 23 M53-20 88-40 M98 39 123 24"/>
+    <g fill="#171d23"><circle cy="-50" r="5"/><circle cx="44" cy="25" r="5"/><circle cx="132" cy="-25" r="5"/></g>
+    <circle cx="88" cy="-50" r="6" fill="#df9a86" stroke="none"/>
+  </g>
+  <path d="M880 232H1162" stroke="#2b363f"/>
+</svg>
